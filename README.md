@@ -1,12 +1,12 @@
-👋 Hi there!, I'm Tanachod (Tee)
+👋 Hi there!, I'm Tanachod (Tee) 👋
 
 🌟 About Me 
-  I'm a junior full-stack developer with a strong foundation in web and mobile development. I’ve worked on real-world projects through internships, 
+- I'm a junior full-stack developer with a strong foundation in web and mobile development. I’ve worked on real-world projects through internships, 
 academic work, and hands-on training, gaining experience in React, Node.js, ASP.NET, and Android Native.
 I enjoy solving problems, building scalable applications, and continuously learning new technologies. 
 Whether it's frontend, backend, or database design, I aim to create efficient and user-friendly solutions.
 
-🛠️ Tech Stack 🛠
+🛠️ Tech Stack 
 - Frontend: React (Vite, Expo, NextJS), Android Native Application
 - Backend: ASP.NET, Node (Express)
 - Database: MySQL, Firebase
@@ -35,7 +35,7 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 - NextJS - VengenceService: https://capstone-eservice.vercel.app/
 
 📫 Get in Touch 
-📌 GitHub: https://github.com/XxEeNnXxEeIi
-📌 LinkedIn: https://www.linkedin.com/in/tanachod-panjapornroongrod-947530317/
+- GitHub: https://github.com/XxEeNnXxEeIi
+- LinkedIn: https://www.linkedin.com/in/tanachod-panjapornroongrod-947530317/
 
 Let’s connect and create something amazing together! 
