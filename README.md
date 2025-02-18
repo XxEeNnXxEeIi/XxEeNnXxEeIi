@@ -1,4 +1,4 @@
-👋 Hi there!, I'm Tanachod (Tee) 👋
+👋 Hi there!, I'm Tanachod (Tee) 
 
 🌟 About Me 
 - I'm a junior full-stack developer with a strong foundation in web and mobile development. I’ve worked on real-world projects through internships, 
@@ -18,24 +18,32 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 - Kotlin Android Native Application: https://github.com/XxEeNnXxEeIi/academic-Android-Native-App
 
 📚 Training & Certifications
-- Hybrid App Development (React+Expo) - DSD: Certificate
-- Microcomputer Service - DSD: Certificate
+- Hybrid App Development (React+Expo) - DSD Certificate: https://github.com/XxEeNnXxEeIi/XxEeNnXxEeIi/blob/main/Tanachod_ReactTypescripts_CERT.pdf
+- Microcomputer Service - DSD Certificate: https://github.com/XxEeNnXxEeIi/XxEeNnXxEeIi/blob/main/Tanachod_MicroComputerService_CERT.pdf
 
 💻 Internship Experiences
 - React+Vite, ASP.Core, SQL - Etax-to-Me: https://github.com/XxEeNnXxEeIi/intern-DV-Fullstack-EtaxToMe
 - React+Vite, Express:  https://github.com/XxEeNnXxEeIi/intern-JIB-FullStackViteExpressSQL
 
 🚀 Tools & Frameworks
-- Mobile Development: Hybrid (Expo), Native (Android)
 - Web Development: React Vite, NextJS
+- Mobile Development: Hybrid (Expo), Native (Android)
 - Program Development: Java Swing
 - Platforms: Windows, Android
 
 🔭 Current Projects
 - NextJS - VengenceService: https://capstone-eservice.vercel.app/
 
+🌍 Programming Languages
+- JavaScript, TypeScript
+- Java, Kotlin, C#
+- SQL
+
+💼 Upcoming Skills & Learning
+- Back-end: Springboot, Golang, FastAPI
+
 📫 Get in Touch 
 - GitHub: https://github.com/XxEeNnXxEeIi
 - LinkedIn: https://www.linkedin.com/in/tanachod-panjapornroongrod-947530317/
 
-Let’s connect and create something amazing together! 
+👋 Let’s connect and create something amazing together! 
