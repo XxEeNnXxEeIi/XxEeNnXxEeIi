@@ -18,7 +18,7 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 - Kotlin Android Native Application: https://github.com/XxEeNnXxEeIi/academic-Android-Native-App
 
 📚 Training & Certifications
-- Hybrid App Development (React+Expo) - DSD Certificate: https://github.com/XxEeNnXxEeIi/XxEeNnXxEeIi/blob/main/Tanachod_ReactTypescripts_CERT.pdf
+- Hybrid App Development (React+Expo) - DSD Certificate: https://github.com/XxEeNnXxEeIi/XxEeNnXxEeIi/blob/main/Tanachod_HybridMobileAppDevelopment_CERT.pdf
 - Microcomputer Service - DSD Certificate: https://github.com/XxEeNnXxEeIi/XxEeNnXxEeIi/blob/main/Tanachod_MicroComputerService_CERT.pdf
 
 💻 Internship Experiences
