@@ -17,13 +17,13 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 - SQL Database, ER-Diagram: https://github.com/XxEeNnXxEeIi/academic-SQL-Database
 - Kotlin Android Native Application: https://github.com/XxEeNnXxEeIi/academic-Android-Native-App
 
-💻 Internship Experiences
-- React+Vite, ASP.Core, SQL - Etax-to-Me: https://github.com/XxEeNnXxEeIi/intern-DV-Fullstack-EtaxToMe
-- React+Vite, Express:  https://github.com/XxEeNnXxEeIi/intern-JIB-FullStackViteExpressSQL
-
 📚 Training & Certifications
 - Hybrid App Development (React+Expo) - DSD: Certificate
 - Microcomputer Service - DSD: Certificate
+
+💻 Internship Experiences
+- React+Vite, ASP.Core, SQL - Etax-to-Me: https://github.com/XxEeNnXxEeIi/intern-DV-Fullstack-EtaxToMe
+- React+Vite, Express:  https://github.com/XxEeNnXxEeIi/intern-JIB-FullStackViteExpressSQL
 
 🚀 Tools & Frameworks
 - Mobile Development: Hybrid (Expo), Native (Android)
