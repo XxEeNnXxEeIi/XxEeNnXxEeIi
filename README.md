@@ -7,8 +7,8 @@ I enjoy solving problems, building scalable applications, and continuously learn
 Whether it's frontend, backend, or database design, I aim to create efficient and user-friendly solutions.
 
 🛠️ Tech Stack 
-- Frontend: React (Vite, Expo, NextJS), Android Native Application
-- Backend: ASP.NET, Node (Express)
+- Front-end: React (Vite, Expo, NextJS), Android Native Application
+- Back-end: ASP.NET, Node (Express)
 - Database: MySQL, Firebase
 
 🎓 Academic Projects
@@ -41,6 +41,7 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 
 💼 Upcoming Skills & Learning
 - Back-end: Springboot, Golang, FastAPI
+- Devops: Docker, Kerberos
 
 📫 Get in Touch 
 - GitHub: https://github.com/XxEeNnXxEeIi
