@@ -32,7 +32,7 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 - Platforms: Windows, Android
 
 🔭 Current Projects
-- NextJS - [VengeanceService: https://capstone-eservice.vercel.app/](https://vengeance-service.vercel.app/)
+- NextJS - [VengeanceService: https://vengeance-service.vercel.app/](https://vengeance-service.vercel.app/)
 
 🌍 Programming Languages
 - JavaScript, TypeScript
