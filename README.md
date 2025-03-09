@@ -18,7 +18,7 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 - Kotlin Android Native Application: https://github.com/XxEeNnXxEeIi/academic-Android-Native-App
 
 📚 Training & Certifications (DSD)
-- Hybrid App Development (React+Expo): [![Hybrid App](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ILXcsRJsKeCF8g2GdOQrmAGQkjrSITObZA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ILXcsRJsKeCF8g2GdOQrmAGQkjrSITObZA&s)
+- Hybrid App Development (React+Expo): [PDF]([[https://link-to-your-pdf-file.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ILXcsRJsKeCF8g2GdOQrmAGQkjrSITObZA&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ILXcsRJsKeCF8g2GdOQrmAGQkjrSITObZA&s))
 
 - Microcomputer Service: https://1drv.ms/b/c/32e8e0296f7b0ad1/EdEKe28p4OgggDK13wAAAAABp0bpZFkJMW8-ZKBhbf3dDQ?e=fKNHqf
 
