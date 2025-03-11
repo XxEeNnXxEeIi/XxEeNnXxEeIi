@@ -15,14 +15,11 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 - Java Swing - POS Program: [Github](https://github.com/XxEeNnXxEeIi/academic-Java-Excutable-Program)
 - Java Dynamic Web Servlet - OnlineSchool: [Github](https://github.com/XxEeNnXxEeIi/academic-Java-DynamicWebServlet)
 - SQL Database, ER-Diagram: [Github](https://github.com/XxEeNnXxEeIi/academic-SQL-Database)
-- Kotlin Android Native Application: [Github]([https://github.com/XxEeNnXxEeIi/academic-Java-Excutable-Program](https://github.com/XxEeNnXxEeIi/academic-Android-Native-App))
+- Kotlin Android Native Application: [Github](https://github.com/XxEeNnXxEeIi/academic-Android-Native-App)
 
 📚 Training & Certifications (DSD)
-- Hybrid App Development (React+Expo)
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ILXcsRJsKeCF8g2GdOQrmAGQkjrSITObZA&s
-
-- Microcomputer Service
-https://1drv.ms/b/c/32e8e0296f7b0ad1/EdEKe28p4OgggDK13wAAAAABp0bpZFkJMW8-ZKBhbf3dDQ?e=fKNHqf
+- Hybrid App Development (React+Expo): [View PDF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ILXcsRJsKeCF8g2GdOQrmAGQkjrSITObZA&s)
+- Microcomputer Service [View PDF](https://1drv.ms/b/c/32e8e0296f7b0ad1/EdEKe28p4OgggDK13wAAAAABp0bpZFkJMW8-ZKBhbf3dDQ?e=fKNHqf)
 
 💻 Internship Experiences
 - React+Vite, ASP.Core, SQL - Etax-to-Me: https://github.com/XxEeNnXxEeIi/intern-DV-Fullstack-EtaxToMe
