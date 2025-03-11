@@ -19,12 +19,12 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 🔭 Current Projects
 - NextJS - [VengeanceService](https://vengeance-service.vercel.app/)
 
-- 🛠️ Tech Stack 
+🛠️ Tech Stack 
 - Front-end: React (Vite, Expo, NextJS), Android Native Application
 - Back-end: ASP.NET, Node (Express)
 - Database: MySQL, Firebase
 
-- 🚀 Tools & Frameworks
+🚀 Tools & Frameworks
 - Web Development: React Vite, NextJS
 - Mobile Development: Hybrid (Expo), Native (Android)
 - Program Development: Java Swing
@@ -43,7 +43,7 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 - PortFolio: [My-PortFolio](https://tanachod-dev-6396008895.vercel.app/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanachod-panjapornroongrod-947530317/)
 
-- 📚 Training & Certifications (DSD)
+📚 Training & Certifications (DSD)
 - Hybrid App Development (React+Expo): [View PDF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ILXcsRJsKeCF8g2GdOQrmAGQkjrSITObZA&s)
 - Microcomputer Service [View PDF](https://1drv.ms/b/c/32e8e0296f7b0ad1/EdEKe28p4OgggDLb3wAAAAABWkeDlFkQQUuKb6yTM-LJnQ?e=e6gyoz)
 
