@@ -17,7 +17,7 @@ Whether it's frontend, backend, or database design, I aim to create efficient an
 - Vite, Express, SQL: [Github](https://github.com/XxEeNnXxEeIi/intern-JIB-FullStackViteExpressSQL)
 
 🔭 Current Projects
-- NextJS - [VengeanceService](https://vengeance-service.vercel.app/)
+- NextJS - [LeafService](https://leaf-service.vercel.app/)
 - Golang, GIN, GRPC - [SeedBank](https://glorious-thelma-xxeennxxeii-3e8284b6.koyeb.app/swagger/index.html#//)
 
 🛠️ Tech Stack 
